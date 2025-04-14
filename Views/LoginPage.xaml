@@ -1,0 +1,13 @@
+<ContentPage 
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="Matrimony.Views.LoginPage"
+    Title="Login">
+
+    <VerticalStackLayout Padding="20">
+        <Entry Placeholder="Email" Text="{Binding Email}" />
+        <Entry Placeholder="Password" IsPassword="True" Text="{Binding Password}" />
+        <Button Text="Login" Command="{Binding LoginCommand}" />
+        <Button Text="Sign Up" Clicked="OnSignUpClicked" />
+    </VerticalStackLayout>
+</ContentPage>
