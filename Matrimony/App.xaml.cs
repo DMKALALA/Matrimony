@@ -8,6 +8,9 @@ public partial class App : Application
     {
         InitializeComponent();
         Services = services;
-        MainPage = new AppShell(); // Assumes you have AppShell.xaml
+        MainPage = new AppShell();
+        
+        // Set the initial route to MainPage
+        //Shell.Current.GoToAsync("//MainPage");
     }
 }

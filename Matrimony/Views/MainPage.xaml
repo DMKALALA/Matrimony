@@ -18,7 +18,6 @@
 
             <Button Text="Catering"
                     Command="{Binding GoToCateringCommand}" />
-
             <Button Text="Logout"
                     Command="{Binding LogoutCommand}"
                     BackgroundColor="Red"

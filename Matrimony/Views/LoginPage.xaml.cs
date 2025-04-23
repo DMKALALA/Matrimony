@@ -14,4 +14,8 @@ public partial class LoginPage : ContentPage
     {
         await Shell.Current.GoToAsync("//SignupPage");
     }
+    private async void guestButton_Clicked(object sender, EventArgs e)
+    {
+        await Shell.Current.GoToAsync("//GuestPage");
+    }
 }
