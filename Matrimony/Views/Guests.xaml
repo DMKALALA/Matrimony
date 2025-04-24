@@ -3,10 +3,15 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Matrimony.Views.Guests"
              Title="Guests">
-    <VerticalStackLayout>
-        <Label 
-            Text="Welcome to .NET MAUI!"
-            VerticalOptions="Center" 
-            HorizontalOptions="Center" />
-    </VerticalStackLayout>
+    <Frame BackgroundColor="#ffc7d2" BorderColor="#faf2f2" CornerRadius="20" Padding="20" Margin="10">
+        <VerticalStackLayout Spacing="10" HorizontalOptions="Center">
+            <Label Text="Guest List" FontSize="22" FontAttributes="Bold" TextColor="#e06666" FontFamily="Georgia" HorizontalTextAlignment="Center"/>
+            <Label Text="A few special guests attending the wedding:" FontSize="16" FontFamily="Georgia" TextColor="#e06666" HorizontalTextAlignment="Center"/>
+            <VerticalStackLayout>
+                <Label Text="1. Emily Johnson - Maid of Honor" FontSize="16" FontFamily="Georgia" TextColor="#e06666" HorizontalTextAlignment="Center"/>
+                <Label Text="2. Michael Williams - Best Man" FontSize="16" FontFamily="Georgia" TextColor="#e06666" HorizontalTextAlignment="Center"/>
+                <Label Text="3. Grandma Lucy - Honored Guest" FontSize="16" FontFamily="Georgia" TextColor="#e06666" HorizontalTextAlignment="Center"/>
+            </VerticalStackLayout>
+        </VerticalStackLayout>
+    </Frame>
 </ContentPage>

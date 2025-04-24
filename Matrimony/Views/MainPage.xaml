@@ -26,7 +26,7 @@
                     </VerticalStackLayout>
                     <Button Text="View Full Guest List" 
                             Command="{Binding NavigateCommand}" 
-                            CommandParameter="guestlist"
+                            CommandParameter="Guests"
                             BackgroundColor="#e06666"
                             TextColor="#faf2f2"
                             BorderColor="#faf2f2"
@@ -54,7 +54,7 @@
                     </VerticalStackLayout>
                     <Button Text="View The Schedule" 
                             Command="{Binding NavigateCommand}" 
-                            CommandParameter="guestlist"
+                            CommandParameter="Itinerary"
                             BackgroundColor="#e06666"
                             TextColor="#faf2f2"
                             BorderColor="#faf2f2"
@@ -80,7 +80,7 @@
                     </VerticalStackLayout>
                     <Button Text="View Full Menu" 
                             Command="{Binding NavigateCommand}" 
-                            CommandParameter="guestlist"
+                            CommandParameter="Catering"
                             BackgroundColor="#e06666"
                             TextColor="#faf2f2"
                             BorderColor="#faf2f2"
