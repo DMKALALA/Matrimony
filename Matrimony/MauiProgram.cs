@@ -9,7 +9,7 @@ public static class MauiProgram
     {
         var builder = MauiApp.CreateBuilder();
 
-        // Register your app and inject service provider into App
+        
         builder.UseMauiApp<App>(provider => new App(provider))
                .ConfigureFonts(fonts =>
                {
@@ -17,14 +17,15 @@ public static class MauiProgram
                    fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
                });
 
-        // Register app-wide services
+        
         builder.Services.AddSingleton(s =>
             new DatabaseService(Path.Combine(FileSystem.AppDataDirectory, "matrimony.db")));
 
-        // Register ViewModels
+        
         builder.Services.AddTransient<LoginViewModel>();
         builder.Services.AddTransient<SignupViewModel>();
         builder.Services.AddTransient<MainViewModel>();
+        builder.Services.AddTransient<GuestViewModel>();
 
         return builder.Build();
     }

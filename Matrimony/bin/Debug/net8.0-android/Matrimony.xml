@@ -4,6 +4,19 @@
         <name>Matrimony</name>
     </assembly>
     <members>
+        <member name="T:Matrimony.ViewModels.GuestViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:Matrimony.ViewModels.GuestViewModel.Couples">
+            <inheritdoc cref="F:Matrimony.ViewModels.GuestViewModel.couples"/>
+        </member>
+        <member name="F:Matrimony.ViewModels.GuestViewModel.searchCommand">
+            <summary>The backing field for <see cref="P:Matrimony.ViewModels.GuestViewModel.SearchCommand"/>.</summary>
+        </member>
+        <member name="P:Matrimony.ViewModels.GuestViewModel.SearchCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:Matrimony.ViewModels.GuestViewModel.SearchAsync(System.String)"/>.</summary>
+        </member>
         <member name="T:Matrimony.ViewModels.LoginViewModel">
             <inheritdoc/>
             <inheritdoc/>
@@ -58,6 +71,9 @@
             for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
             </summary>
         </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Couples">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Couples" generated properties.</summary>
+        </member>
         <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Email">
             <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Email" generated properties.</summary>
         </member>
@@ -75,6 +91,9 @@
             A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instances
             for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
             </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Couples">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Couples" generated properties.</summary>
         </member>
         <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Email">
             <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Email" generated properties.</summary>

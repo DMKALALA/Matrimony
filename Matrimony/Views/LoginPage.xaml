@@ -5,9 +5,10 @@
     Title="Login">
 
     <VerticalStackLayout Padding="20">
-        <Entry Placeholder="Email" Text="{Binding Email}" />
-        <Entry Placeholder="Password" IsPassword="True" Text="{Binding Password}" />
-        <Button Text="Login" Command="{Binding LoginCommand}" />
-        <Button Text="Sign Up" Clicked="OnSignUpClicked" />
+        <Entry Placeholder="Email" Text="{Binding Email}" Margin="10" />
+        <Entry Placeholder="Password" IsPassword="True" Text="{Binding Password}" Margin="10" />
+        <Button Text="Login" Clicked="OnLoginClicked" Margin="20" />
+        <Button Text="Sign Up" Clicked="OnSignUpClicked" Margin="20" />
+        <Button Text="I'm a guest" Clicked="guestButton_Clicked" x:Name="guestButton" Margin="20" />
     </VerticalStackLayout>
 </ContentPage>

@@ -1,28 +1,70 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Matrimony.Views.MainPage"
-             Title="MainPage">
+             Title="Matrimony"
+             BackgroundColor="White">
 
     <ScrollView>
         <VerticalStackLayout Padding="30" Spacing="20">
+
             <Label Text="{Binding Greeting}"
-                   FontSize="26"
-                   HorizontalOptions="Center"
-                   FontAttributes="Bold" />
+                   FontSize="30"
+                   FontAttributes="Bold"
+                   TextColor="Black"
+                   FontFamily="Georgia"
+                   HorizontalOptions="Center" />
 
-            <Button Text="Guest List"
-                    Command="{Binding GoToGuestListCommand}" />
+            <!-- Guest List Section -->
+            <Frame BackgroundColor="Gold" BorderColor="Black" CornerRadius="20" Padding="20" Margin="10">
+                <VerticalStackLayout Spacing="10" HorizontalOptions="Center">
+                    <Label Text="Guest List" FontSize="22" FontAttributes="Bold" TextColor="Black" FontFamily="Georgia" HorizontalTextAlignment="Center"/>
+                    <Label Text="A few special guests attending the wedding:" FontSize="16" FontFamily="Georgia" TextColor="Black" HorizontalTextAlignment="Center"/>
+                    <VerticalStackLayout>
+                        <Label Text="1. Emily Johnson - Maid of Honor" FontSize="16" FontFamily="Georgia" TextColor="Black" HorizontalTextAlignment="Center"/>
+                        <Label Text="2. Michael Williams - Best Man" FontSize="16" FontFamily="Georgia" TextColor="Black" HorizontalTextAlignment="Center"/>
+                        <Label Text="3. Grandma Lucy - Honored Guest" FontSize="16" FontFamily="Georgia" TextColor="Black" HorizontalTextAlignment="Center"/>
+                    </VerticalStackLayout>
+                </VerticalStackLayout>
+            </Frame>
 
-            <Button Text="Itinerary"
-                    Command="{Binding GoToItineraryCommand}" />
+            <!-- Itinerary Section -->
+            <Frame BackgroundColor="Gold" BorderColor="Black" CornerRadius="20" Padding="20" Margin="10">
+                <VerticalStackLayout Spacing="10" HorizontalOptions="Center">
+                    <Label Text="Itinerary" FontSize="22" FontAttributes="Bold" TextColor="Black" FontFamily="Georgia" HorizontalTextAlignment="Center"/>
+                    <Label Text="Here's the wedding day schedule:" FontSize="16" FontFamily="Georgia" TextColor="Black" HorizontalTextAlignment="Center"/>
+                    <VerticalStackLayout>
+                        <Label Text="2:00 PM - Guests Arrive" FontSize="16" FontFamily="Georgia" TextColor="Black" HorizontalTextAlignment="Center"/>
+                        <Label Text="3:00 PM - Wedding Ceremony" FontSize="16" FontFamily="Georgia" TextColor="Black" HorizontalTextAlignment="Center"/>
+                        <Label Text="4:30 PM - Cocktail Hour" FontSize="16" FontFamily="Georgia" TextColor="Black" HorizontalTextAlignment="Center"/>
+                        <Label Text="6:00 PM - Reception and Dinner" FontSize="16" FontFamily="Georgia" TextColor="Black" HorizontalTextAlignment="Center"/>
+                        <Label Text="9:00 PM - Dancing and Celebration" FontSize="16" FontFamily="Georgia" TextColor="Black" HorizontalTextAlignment="Center"/>
+                    </VerticalStackLayout>
+                </VerticalStackLayout>
+            </Frame>
 
-            <Button Text="Catering"
-                    Command="{Binding GoToCateringCommand}" />
+            <!-- Catering Section -->
+            <Frame BackgroundColor="Gold" BorderColor="Black" CornerRadius="20" Padding="20" Margin="10">
+                <VerticalStackLayout Spacing="10" HorizontalOptions="Center">
+                    <Label Text="Catering" FontSize="22" FontAttributes="Bold" TextColor="Black" FontFamily="Georgia" HorizontalTextAlignment="Center"/>
+                    <Label Text="Menu for the wedding celebration:" FontSize="16" FontFamily="Georgia" TextColor="Black" HorizontalTextAlignment="Center"/>
+                    <VerticalStackLayout>
+                        <Label Text="Appetizers: Bruschetta, Stuffed Mushrooms" FontSize="16" FontFamily="Georgia" TextColor="Black" HorizontalTextAlignment="Center"/>
+                        <Label Text="Main Course: Grilled Salmon, Chicken Alfredo, Vegetarian Lasagna" FontSize="16" FontFamily="Georgia" TextColor="Black" HorizontalTextAlignment="Center"/>
+                        <Label Text="Dessert: Wedding Cake, Chocolate Mousse, Fruit Tart" FontSize="16" FontFamily="Georgia" TextColor="Black" HorizontalTextAlignment="Center"/>
+                    </VerticalStackLayout>
+                </VerticalStackLayout>
+            </Frame>
 
-            <Button Text="Logout"
+            <!-- Logout Button -->
+            <Button Text="Logout" 
                     Command="{Binding LogoutCommand}"
                     BackgroundColor="Red"
-                    TextColor="White" />
+                    TextColor="White"
+                    FontFamily="Georgia"
+                    FontSize="16"
+                    HorizontalOptions="Center"
+                    Margin="20"
+                    HeightRequest="40"/>
         </VerticalStackLayout>
     </ScrollView>
 </ContentPage>
