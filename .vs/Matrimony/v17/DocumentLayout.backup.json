@@ -1,54 +1,90 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Grady2\\OneDrive\\Desktop\\Group_project\\Matrimony\\",
+  "WorkspaceRootPath": "C:\\Users\\Logan\\Documents\\GitHub\\Matrimony\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|c:\\users\\grady2\\onedrive\\desktop\\group_project\\matrimony\\matrimony\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|solutionrelative:matrimony\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|c:\\users\\grady2\\onedrive\\desktop\\group_project\\matrimony\\matrimony\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|solutionrelative:matrimony\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|c:\\users\\grady2\\onedrive\\desktop\\group_project\\matrimony\\matrimony\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|solutionrelative:matrimony\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|c:\\users\\grady2\\onedrive\\desktop\\group_project\\matrimony\\matrimony\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|solutionrelative:matrimony\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|c:\\users\\grady2\\onedrive\\desktop\\group_project\\matrimony\\matrimony\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|solutionrelative:matrimony\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|c:\\users\\grady2\\onedrive\\desktop\\group_project\\matrimony\\matrimony\\views\\guestpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|solutionrelative:matrimony\\views\\guestpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|c:\\users\\grady2\\onedrive\\desktop\\group_project\\matrimony\\matrimony\\views\\signuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|solutionrelative:matrimony\\views\\signuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|c:\\users\\grady2\\onedrive\\desktop\\group_project\\matrimony\\matrimony\\views\\signuppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|solutionrelative:matrimony\\views\\signuppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|c:\\users\\grady2\\onedrive\\desktop\\group_project\\matrimony\\matrimony\\viewmodels\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|solutionrelative:matrimony\\viewmodels\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|c:\\users\\grady2\\onedrive\\desktop\\group_project\\matrimony\\matrimony\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|solutionrelative:matrimony\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|c:\\users\\grady2\\onedrive\\desktop\\group_project\\matrimony\\matrimony\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|c:\\users\\logan\\documents\\github\\matrimony\\matrimony\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|solutionrelative:matrimony\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|c:\\users\\grady2\\onedrive\\desktop\\group_project\\matrimony\\matrimony\\views\\guestpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|c:\\users\\logan\\documents\\github\\matrimony\\matrimony\\views\\itinerary.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|solutionrelative:matrimony\\views\\itinerary.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|c:\\users\\logan\\documents\\github\\matrimony\\matrimony\\views\\itinerary.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|solutionrelative:matrimony\\views\\itinerary.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|c:\\users\\logan\\documents\\github\\matrimony\\matrimony\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|solutionrelative:matrimony\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|c:\\users\\logan\\documents\\github\\matrimony\\matrimony\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|solutionrelative:matrimony\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|c:\\users\\logan\\documents\\github\\matrimony\\matrimony\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|solutionrelative:matrimony\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|c:\\users\\logan\\documents\\github\\matrimony\\matrimony\\views\\signuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|solutionrelative:matrimony\\views\\signuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|c:\\users\\logan\\documents\\github\\matrimony\\matrimony\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|solutionrelative:matrimony\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|c:\\users\\logan\\documents\\github\\matrimony\\matrimony\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|solutionrelative:matrimony\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|c:\\users\\logan\\documents\\github\\matrimony\\matrimony\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|solutionrelative:matrimony\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|c:\\users\\logan\\documents\\github\\matrimony\\matrimony\\viewmodels\\guestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|solutionrelative:matrimony\\viewmodels\\guestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|c:\\users\\logan\\documents\\github\\matrimony\\matrimony\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|solutionrelative:matrimony\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|c:\\users\\logan\\documents\\github\\matrimony\\matrimony\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|solutionrelative:matrimony\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|c:\\users\\logan\\documents\\github\\matrimony\\matrimony\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|solutionrelative:matrimony\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|c:\\users\\logan\\documents\\github\\matrimony\\matrimony\\viewmodels\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|solutionrelative:matrimony\\viewmodels\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|c:\\users\\logan\\documents\\github\\matrimony\\matrimony\\views\\guestpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|solutionrelative:matrimony\\views\\guestpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|c:\\users\\logan\\documents\\github\\matrimony\\matrimony\\views\\guests.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|solutionrelative:matrimony\\views\\guests.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|c:\\users\\logan\\documents\\github\\matrimony\\matrimony\\views\\catering.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|solutionrelative:matrimony\\views\\catering.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|c:\\users\\logan\\documents\\github\\matrimony\\matrimony\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|solutionrelative:matrimony\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|c:\\users\\logan\\documents\\github\\matrimony\\matrimony\\views\\guestpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|solutionrelative:matrimony\\views\\guestpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|c:\\users\\logan\\documents\\github\\matrimony\\matrimony\\views\\signuppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78EAE89D-B741-418F-8210-E0EE32E166CC}|Matrimony\\Matrimony.csproj|solutionrelative:matrimony\\views\\signuppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 145,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,85 +106,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SignupViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Grady2\\OneDrive\\Desktop\\Group_project\\Matrimony\\Matrimony\\ViewModels\\SignupViewModel.cs",
-              "RelativeDocumentMoniker": "Matrimony\\ViewModels\\SignupViewModel.cs",
-              "ToolTip": "C:\\Users\\Grady2\\OneDrive\\Desktop\\Group_project\\Matrimony\\Matrimony\\ViewModels\\SignupViewModel.cs",
-              "RelativeToolTip": "Matrimony\\ViewModels\\SignupViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T01:43:13.571Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SignupPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Grady2\\OneDrive\\Desktop\\Group_project\\Matrimony\\Matrimony\\Views\\SignupPage.xaml.cs",
-              "RelativeDocumentMoniker": "Matrimony\\Views\\SignupPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Grady2\\OneDrive\\Desktop\\Group_project\\Matrimony\\Matrimony\\Views\\SignupPage.xaml.cs",
-              "RelativeToolTip": "Matrimony\\Views\\SignupPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T01:42:22.28Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SignupPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Grady2\\OneDrive\\Desktop\\Group_project\\Matrimony\\Matrimony\\Views\\SignupPage.xaml",
-              "RelativeDocumentMoniker": "Matrimony\\Views\\SignupPage.xaml",
-              "ToolTip": "C:\\Users\\Grady2\\OneDrive\\Desktop\\Group_project\\Matrimony\\Matrimony\\Views\\SignupPage.xaml",
-              "RelativeToolTip": "Matrimony\\Views\\SignupPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-24T01:42:05.744Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GuestPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Grady2\\OneDrive\\Desktop\\Group_project\\Matrimony\\Matrimony\\Views\\GuestPage.xaml.cs",
-              "RelativeDocumentMoniker": "Matrimony\\Views\\GuestPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Grady2\\OneDrive\\Desktop\\Group_project\\Matrimony\\Matrimony\\Views\\GuestPage.xaml.cs",
-              "RelativeToolTip": "Matrimony\\Views\\GuestPage.xaml.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T23:59:07.634Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Grady2\\OneDrive\\Desktop\\Group_project\\Matrimony\\Matrimony\\ViewModels\\LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Logan\\Documents\\GitHub\\Matrimony\\Matrimony\\ViewModels\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "Matrimony\\ViewModels\\LoginViewModel.cs",
-              "ToolTip": "C:\\Users\\Grady2\\OneDrive\\Desktop\\Group_project\\Matrimony\\Matrimony\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Logan\\Documents\\GitHub\\Matrimony\\Matrimony\\ViewModels\\LoginViewModel.cs",
               "RelativeToolTip": "Matrimony\\ViewModels\\LoginViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-14T02:24:45.341Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LoginPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Grady2\\OneDrive\\Desktop\\Group_project\\Matrimony\\Matrimony\\Views\\LoginPage.xaml.cs",
-              "RelativeDocumentMoniker": "Matrimony\\Views\\LoginPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Grady2\\OneDrive\\Desktop\\Group_project\\Matrimony\\Matrimony\\Views\\LoginPage.xaml.cs",
-              "RelativeToolTip": "Matrimony\\Views\\LoginPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T23:58:18.736Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 13,
               "Title": "LoginPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Grady2\\OneDrive\\Desktop\\Group_project\\Matrimony\\Matrimony\\Views\\LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Logan\\Documents\\GitHub\\Matrimony\\Matrimony\\Views\\LoginPage.xaml",
               "RelativeDocumentMoniker": "Matrimony\\Views\\LoginPage.xaml",
-              "ToolTip": "C:\\Users\\Grady2\\OneDrive\\Desktop\\Group_project\\Matrimony\\Matrimony\\Views\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\Logan\\Documents\\GitHub\\Matrimony\\Matrimony\\Views\\LoginPage.xaml",
               "RelativeToolTip": "Matrimony\\Views\\LoginPage.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
@@ -157,63 +132,248 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "MainViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Grady2\\OneDrive\\Desktop\\Group_project\\Matrimony\\Matrimony\\ViewModels\\MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Logan\\Documents\\GitHub\\Matrimony\\Matrimony\\ViewModels\\MainViewModel.cs",
               "RelativeDocumentMoniker": "Matrimony\\ViewModels\\MainViewModel.cs",
-              "ToolTip": "C:\\Users\\Grady2\\OneDrive\\Desktop\\Group_project\\Matrimony\\Matrimony\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\Logan\\Documents\\GitHub\\Matrimony\\Matrimony\\ViewModels\\MainViewModel.cs",
               "RelativeToolTip": "Matrimony\\ViewModels\\MainViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T23:57:27.39Z"
+              "WhenOpened": "2025-04-23T23:57:27.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Logan\\Documents\\GitHub\\Matrimony\\Matrimony\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Matrimony\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\Logan\\Documents\\GitHub\\Matrimony\\Matrimony\\AppShell.xaml",
+              "RelativeToolTip": "Matrimony\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-24T00:07:08.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Logan\\Documents\\GitHub\\Matrimony\\Matrimony\\Views\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Matrimony\\Views\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Logan\\Documents\\GitHub\\Matrimony\\Matrimony\\Views\\MainPage.xaml",
+              "RelativeToolTip": "Matrimony\\Views\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-23T23:57:03.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Logan\\Documents\\GitHub\\Matrimony\\Matrimony\\App.xaml",
+              "RelativeDocumentMoniker": "Matrimony\\App.xaml",
+              "ToolTip": "C:\\Users\\Logan\\Documents\\GitHub\\Matrimony\\Matrimony\\App.xaml",
+              "RelativeToolTip": "Matrimony\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-24T03:10:59.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Itinerary.xaml",
+              "DocumentMoniker": "C:\\Users\\Logan\\Documents\\GitHub\\Matrimony\\Matrimony\\Views\\Itinerary.xaml",
+              "RelativeDocumentMoniker": "Matrimony\\Views\\Itinerary.xaml",
+              "ToolTip": "C:\\Users\\Logan\\Documents\\GitHub\\Matrimony\\Matrimony\\Views\\Itinerary.xaml",
+              "RelativeToolTip": "Matrimony\\Views\\Itinerary.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-24T03:09:11.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SignupPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Logan\\Documents\\GitHub\\Matrimony\\Matrimony\\Views\\SignupPage.xaml.cs",
+              "RelativeDocumentMoniker": "Matrimony\\Views\\SignupPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Logan\\Documents\\GitHub\\Matrimony\\Matrimony\\Views\\SignupPage.xaml.cs",
+              "RelativeToolTip": "Matrimony\\Views\\SignupPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T01:42:22.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SignupViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Logan\\Documents\\GitHub\\Matrimony\\Matrimony\\ViewModels\\SignupViewModel.cs",
+              "RelativeDocumentMoniker": "Matrimony\\ViewModels\\SignupViewModel.cs",
+              "ToolTip": "C:\\Users\\Logan\\Documents\\GitHub\\Matrimony\\Matrimony\\ViewModels\\SignupViewModel.cs",
+              "RelativeToolTip": "Matrimony\\ViewModels\\SignupViewModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T01:43:13.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GuestPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Logan\\Documents\\GitHub\\Matrimony\\Matrimony\\Views\\GuestPage.xaml",
+              "RelativeDocumentMoniker": "Matrimony\\Views\\GuestPage.xaml",
+              "ToolTip": "C:\\Users\\Logan\\Documents\\GitHub\\Matrimony\\Matrimony\\Views\\GuestPage.xaml",
+              "RelativeToolTip": "Matrimony\\Views\\GuestPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-23T23:59:20.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Catering.xaml",
+              "DocumentMoniker": "C:\\Users\\Logan\\Documents\\GitHub\\Matrimony\\Matrimony\\Views\\Catering.xaml",
+              "RelativeDocumentMoniker": "Matrimony\\Views\\Catering.xaml",
+              "ToolTip": "C:\\Users\\Logan\\Documents\\GitHub\\Matrimony\\Matrimony\\Views\\Catering.xaml",
+              "RelativeToolTip": "Matrimony\\Views\\Catering.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-24T03:07:12.198Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Grady2\\OneDrive\\Desktop\\Group_project\\Matrimony\\Matrimony\\Views\\MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Logan\\Documents\\GitHub\\Matrimony\\Matrimony\\Views\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "Matrimony\\Views\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Grady2\\OneDrive\\Desktop\\Group_project\\Matrimony\\Matrimony\\Views\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Logan\\Documents\\GitHub\\Matrimony\\Matrimony\\Views\\MainPage.xaml.cs",
               "RelativeToolTip": "Matrimony\\Views\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T23:57:24.091Z"
+              "WhenOpened": "2025-04-23T23:57:24.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Guests.xaml",
+              "DocumentMoniker": "C:\\Users\\Logan\\Documents\\GitHub\\Matrimony\\Matrimony\\Views\\Guests.xaml",
+              "RelativeDocumentMoniker": "Matrimony\\Views\\Guests.xaml",
+              "ToolTip": "C:\\Users\\Logan\\Documents\\GitHub\\Matrimony\\Matrimony\\Views\\Guests.xaml",
+              "RelativeToolTip": "Matrimony\\Views\\Guests.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-24T03:07:52.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SignupPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Logan\\Documents\\GitHub\\Matrimony\\Matrimony\\Views\\SignupPage.xaml",
+              "RelativeDocumentMoniker": "Matrimony\\Views\\SignupPage.xaml",
+              "ToolTip": "C:\\Users\\Logan\\Documents\\GitHub\\Matrimony\\Matrimony\\Views\\SignupPage.xaml",
+              "RelativeToolTip": "Matrimony\\Views\\SignupPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-24T01:42:05.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Logan\\Documents\\GitHub\\Matrimony\\Matrimony\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "Matrimony\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\Logan\\Documents\\GitHub\\Matrimony\\Matrimony\\AppShell.xaml.cs",
+              "RelativeToolTip": "Matrimony\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T03:03:37.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Logan\\Documents\\GitHub\\Matrimony\\Matrimony\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Matrimony\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Logan\\Documents\\GitHub\\Matrimony\\Matrimony\\App.xaml.cs",
+              "RelativeToolTip": "Matrimony\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T03:17:58.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Logan\\Documents\\GitHub\\Matrimony\\Matrimony\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "Matrimony\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Logan\\Documents\\GitHub\\Matrimony\\Matrimony\\MauiProgram.cs",
+              "RelativeToolTip": "Matrimony\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T03:18:02.039Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Grady2\\OneDrive\\Desktop\\Group_project\\Matrimony\\Matrimony\\Views\\MainPage.xaml",
-              "RelativeDocumentMoniker": "Matrimony\\Views\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\Grady2\\OneDrive\\Desktop\\Group_project\\Matrimony\\Matrimony\\Views\\MainPage.xaml",
-              "RelativeToolTip": "Matrimony\\Views\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-23T23:57:03.649Z"
+              "Title": "GuestViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Logan\\Documents\\GitHub\\Matrimony\\Matrimony\\ViewModels\\GuestViewModel.cs",
+              "RelativeDocumentMoniker": "Matrimony\\ViewModels\\GuestViewModel.cs",
+              "ToolTip": "C:\\Users\\Logan\\Documents\\GitHub\\Matrimony\\Matrimony\\ViewModels\\GuestViewModel.cs",
+              "RelativeToolTip": "Matrimony\\ViewModels\\GuestViewModel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T03:18:16.24Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Users\\Grady2\\OneDrive\\Desktop\\Group_project\\Matrimony\\Matrimony\\AppShell.xaml",
-              "RelativeDocumentMoniker": "Matrimony\\AppShell.xaml",
-              "ToolTip": "C:\\Users\\Grady2\\OneDrive\\Desktop\\Group_project\\Matrimony\\Matrimony\\AppShell.xaml",
-              "RelativeToolTip": "Matrimony\\AppShell.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-24T00:07:08.123Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "GuestPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Grady2\\OneDrive\\Desktop\\Group_project\\Matrimony\\Matrimony\\Views\\GuestPage.xaml",
-              "RelativeDocumentMoniker": "Matrimony\\Views\\GuestPage.xaml",
-              "ToolTip": "C:\\Users\\Grady2\\OneDrive\\Desktop\\Group_project\\Matrimony\\Matrimony\\Views\\GuestPage.xaml",
-              "RelativeToolTip": "Matrimony\\Views\\GuestPage.xaml",
+              "DocumentIndex": 2,
+              "Title": "Itinerary.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Logan\\Documents\\GitHub\\Matrimony\\Matrimony\\Views\\Itinerary.xaml.cs",
+              "RelativeDocumentMoniker": "Matrimony\\Views\\Itinerary.xaml.cs",
+              "ToolTip": "C:\\Users\\Logan\\Documents\\GitHub\\Matrimony\\Matrimony\\Views\\Itinerary.xaml.cs",
+              "RelativeToolTip": "Matrimony\\Views\\Itinerary.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-23T23:59:20.142Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T03:23:31.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Logan\\Documents\\GitHub\\Matrimony\\Matrimony\\Views\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "Matrimony\\Views\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Logan\\Documents\\GitHub\\Matrimony\\Matrimony\\Views\\LoginPage.xaml.cs",
+              "RelativeToolTip": "Matrimony\\Views\\LoginPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:58:18.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GuestPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Logan\\Documents\\GitHub\\Matrimony\\Matrimony\\Views\\GuestPage.xaml.cs",
+              "RelativeDocumentMoniker": "Matrimony\\Views\\GuestPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Logan\\Documents\\GitHub\\Matrimony\\Matrimony\\Views\\GuestPage.xaml.cs",
+              "RelativeToolTip": "Matrimony\\Views\\GuestPage.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:59:07.634Z"
             }
           ]
         },
